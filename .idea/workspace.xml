@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2/data_type_boolean.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/data_type_list.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="data_type_boolean.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter2/data_type_boolean.dart">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="data_type_list.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter2/data_type_list.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="469">
+              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/chapter2/data_type_number.dart" />
         <option value="$PROJECT_DIR$/chapter2/data_type_string.dart" />
         <option value="$PROJECT_DIR$/chapter2/data_type_boolean.dart" />
+        <option value="$PROJECT_DIR$/chapter2/data_type_list.dart" />
       </list>
     </option>
   </component>
@@ -65,7 +66,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,7 +83,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,12 +113,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.data_type_boolean.dart">
+  <component name="RunManager" selected="Dart Command Line App.data_type_list.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="data_type_boolean.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_boolean.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
+    </configuration>
+    <configuration name="data_type_list.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_list.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
     </configuration>
     <configuration name="data_type_number.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -127,10 +132,6 @@
     <configuration name="data_type_string.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_string.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
-    </configuration>
-    <configuration name="hello_world.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter1/hello_world.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter1" />
     </configuration>
     <configuration name="var_and_const.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/var_and_const.dart" />
@@ -179,19 +180,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.hello_world.dart" />
       <item itemvalue="Dart Command Line App.var_and_const.dart" />
       <item itemvalue="Dart Command Line App.data_type_number.dart" />
       <item itemvalue="Dart Command Line App.data_type_string.dart" />
       <item itemvalue="Dart Command Line App.data_type_boolean.dart" />
+      <item itemvalue="Dart Command Line App.data_type_list.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.data_type_list.dart" />
         <item itemvalue="Dart Command Line App.data_type_boolean.dart" />
         <item itemvalue="Dart Command Line App.data_type_string.dart" />
         <item itemvalue="Dart Command Line App.data_type_number.dart" />
         <item itemvalue="Dart Command Line App.var_and_const.dart" />
-        <item itemvalue="Dart Command Line App.hello_world.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -207,12 +208,13 @@
       <updated>1531034851910</updated>
       <workItem from="1531034855190" duration="358000" />
       <workItem from="1531035554484" duration="750000" />
-      <workItem from="1531039844969" duration="2751000" />
+      <workItem from="1531039844969" duration="3006000" />
+      <workItem from="1531066042706" duration="1539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4495000" />
+    <option name="totallyTimeSpent" value="6289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -225,8 +227,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6308725" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6308725" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.26281112" />
@@ -234,8 +236,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -251,6 +253,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter2/data_type_boolean.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/hello_world.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -323,8 +332,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/data_type_boolean.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="210">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/data_type_list.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
