@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter3/operator_asignment.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/operator_conditional.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="operator_asignment.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter3/operator_asignment.dart">
+      <file leaf-file-name="operator_conditional.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter3/operator_conditional.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+            <state relative-caret-position="210">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -50,6 +51,7 @@
         <option value="$PROJECT_DIR$/chapter3/operator_relational.dart" />
         <option value="$PROJECT_DIR$/chapter3/operator_logical.dart" />
         <option value="$PROJECT_DIR$/chapter3/operator_asignment.dart" />
+        <option value="$PROJECT_DIR$/chapter3/operator_conditional.dart" />
       </list>
     </option>
   </component>
@@ -118,13 +120,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.operator_asignment.dart">
+  <component name="RunManager" selected="Dart Command Line App.operator_conditional.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="data_type_dynamic.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_dynamic.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
     </configuration>
     <configuration name="operator_arithmetic.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_arithmetic.dart" />
@@ -132,6 +130,10 @@
     </configuration>
     <configuration name="operator_asignment.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_asignment.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
+    </configuration>
+    <configuration name="operator_conditional.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_conditional.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
     </configuration>
     <configuration name="operator_logical.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -185,19 +187,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.data_type_dynamic.dart" />
       <item itemvalue="Dart Command Line App.operator_arithmetic.dart" />
       <item itemvalue="Dart Command Line App.operator_relational.dart" />
       <item itemvalue="Dart Command Line App.operator_logical.dart" />
       <item itemvalue="Dart Command Line App.operator_asignment.dart" />
+      <item itemvalue="Dart Command Line App.operator_conditional.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.operator_conditional.dart" />
         <item itemvalue="Dart Command Line App.operator_asignment.dart" />
         <item itemvalue="Dart Command Line App.operator_logical.dart" />
         <item itemvalue="Dart Command Line App.operator_relational.dart" />
         <item itemvalue="Dart Command Line App.operator_arithmetic.dart" />
-        <item itemvalue="Dart Command Line App.data_type_dynamic.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -217,12 +219,12 @@
       <workItem from="1531066042706" duration="3519000" />
       <workItem from="1531548005003" duration="3000" />
       <workItem from="1531548064345" duration="49000" />
-      <workItem from="1531548133889" duration="3022000" />
+      <workItem from="1531548133889" duration="4028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11343000" />
+    <option name="totallyTimeSpent" value="12349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -438,8 +440,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/operator_asignment.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        <state relative-caret-position="173">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/operator_conditional.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
