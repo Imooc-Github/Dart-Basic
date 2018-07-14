@@ -13,5 +13,5 @@ void main(){
 
   String str = "";
   print(!str.isEmpty);
-  
+
 }
