@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter4/stmt_while.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/stmt_while.dart" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/stmt_while.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="stmt_while.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter4/stmt_while.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -226,16 +215,15 @@
       <workItem from="1531548005003" duration="3000" />
       <workItem from="1531548064345" duration="49000" />
       <workItem from="1531548133889" duration="4281000" />
-      <workItem from="1531587293328" duration="1918000" />
+      <workItem from="1531587293328" duration="2375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14520000" />
+    <option name="totallyTimeSpent" value="14977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -248,7 +236,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.6308725" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2693997" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2693997" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -475,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter4/stmt_while.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        <state relative-caret-position="140">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
