@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="" />
+    <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter4/stmt_while.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="stmt_for.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter4/stmt_for.dart">
+      <file leaf-file-name="stmt_while.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter4/stmt_while.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+            <state relative-caret-position="530">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -51,6 +54,7 @@
         <option value="$PROJECT_DIR$/chapter3/operator_conditional.dart" />
         <option value="$PROJECT_DIR$/chapter4/stmt_if.dart" />
         <option value="$PROJECT_DIR$/chapter4/stmt_for.dart" />
+        <option value="$PROJECT_DIR$/chapter4/stmt_while.dart" />
       </list>
     </option>
   </component>
@@ -105,6 +109,9 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Dart" />
   </component>
   <component name="RunDashboard">
@@ -119,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.stmt_for.dart">
+  <component name="RunManager" selected="Dart Command Line App.stmt_while.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -131,16 +138,16 @@
       <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_conditional.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
     </configuration>
-    <configuration name="operator_logical.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_logical.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
-    </configuration>
     <configuration name="stmt_for.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter4/stmt_for.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
     </configuration>
     <configuration name="stmt_if.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter4/stmt_if.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
+    </configuration>
+    <configuration name="stmt_while.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter4/stmt_while.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -186,19 +193,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.operator_logical.dart" />
       <item itemvalue="Dart Command Line App.operator_asignment.dart" />
       <item itemvalue="Dart Command Line App.operator_conditional.dart" />
       <item itemvalue="Dart Command Line App.stmt_if.dart" />
       <item itemvalue="Dart Command Line App.stmt_for.dart" />
+      <item itemvalue="Dart Command Line App.stmt_while.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.stmt_while.dart" />
         <item itemvalue="Dart Command Line App.stmt_for.dart" />
         <item itemvalue="Dart Command Line App.stmt_if.dart" />
         <item itemvalue="Dart Command Line App.operator_conditional.dart" />
         <item itemvalue="Dart Command Line App.operator_asignment.dart" />
-        <item itemvalue="Dart Command Line App.operator_logical.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -219,12 +226,12 @@
       <workItem from="1531548005003" duration="3000" />
       <workItem from="1531548064345" duration="49000" />
       <workItem from="1531548133889" duration="4281000" />
-      <workItem from="1531587293328" duration="1114000" />
+      <workItem from="1531587293328" duration="1918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13716000" />
+    <option name="totallyTimeSpent" value="14520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -466,12 +473,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/stmt_while.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Dart-Basic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart SDK</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
