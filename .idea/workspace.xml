@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter3/operator_arithmetic.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/operator_relational.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="operator_arithmetic.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter3/operator_arithmetic.dart">
+      <file leaf-file-name="operator_relational.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter3/operator_relational.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="439">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -48,6 +48,7 @@
         <option value="$PROJECT_DIR$/chapter2/data_type_list.dart" />
         <option value="$PROJECT_DIR$/chapter2/data_type_dynamic.dart" />
         <option value="$PROJECT_DIR$/chapter3/operator_arithmetic.dart" />
+        <option value="$PROJECT_DIR$/chapter3/operator_relational.dart" />
       </list>
     </option>
   </component>
@@ -116,13 +117,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.operator_arithmetic.dart">
+  <component name="RunManager" selected="Dart Command Line App.operator_relational.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="data_type_boolean.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_boolean.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
     </configuration>
     <configuration name="data_type_dynamic.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_dynamic.dart" />
@@ -138,6 +135,10 @@
     </configuration>
     <configuration name="operator_arithmetic.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_arithmetic.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
+    </configuration>
+    <configuration name="operator_relational.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_relational.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -183,19 +184,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.data_type_boolean.dart" />
       <item itemvalue="Dart Command Line App.data_type_list.dart" />
       <item itemvalue="Dart Command Line App.data_type_map.dart" />
       <item itemvalue="Dart Command Line App.data_type_dynamic.dart" />
       <item itemvalue="Dart Command Line App.operator_arithmetic.dart" />
+      <item itemvalue="Dart Command Line App.operator_relational.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.operator_relational.dart" />
         <item itemvalue="Dart Command Line App.operator_arithmetic.dart" />
         <item itemvalue="Dart Command Line App.data_type_dynamic.dart" />
         <item itemvalue="Dart Command Line App.data_type_map.dart" />
         <item itemvalue="Dart Command Line App.data_type_list.dart" />
-        <item itemvalue="Dart Command Line App.data_type_boolean.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -215,12 +216,12 @@
       <workItem from="1531066042706" duration="3519000" />
       <workItem from="1531548005003" duration="3000" />
       <workItem from="1531548064345" duration="49000" />
-      <workItem from="1531548133889" duration="1051000" />
+      <workItem from="1531548133889" duration="1684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9372000" />
+    <option name="totallyTimeSpent" value="10005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -415,8 +416,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/operator_arithmetic.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="266">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/operator_relational.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
