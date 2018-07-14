@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter4/stmt_for.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -222,12 +219,12 @@
       <workItem from="1531548005003" duration="3000" />
       <workItem from="1531548064345" duration="49000" />
       <workItem from="1531548133889" duration="4281000" />
-      <workItem from="1531587293328" duration="949000" />
+      <workItem from="1531587293328" duration="1114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13551000" />
+    <option name="totallyTimeSpent" value="13716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
