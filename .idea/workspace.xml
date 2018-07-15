@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b97bb22-f7f0-4bb5-ae8e-cc1f128eed22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter5/function_optional_param.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/function_default_param.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="function_optional_param.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter5/function_optional_param.dart">
+      <file leaf-file-name="function_default_param.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter5/function_default_param.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="420">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -67,6 +68,7 @@
         <option value="$PROJECT_DIR$/chapter4/stmt_assert.dart" />
         <option value="$PROJECT_DIR$/chapter5/function_declaration.dart" />
         <option value="$PROJECT_DIR$/chapter5/function_optional_param.dart" />
+        <option value="$PROJECT_DIR$/chapter5/function_default_param.dart" />
       </list>
     </option>
   </component>
@@ -162,16 +164,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.function_optional_param.dart">
+  <component name="RunManager" selected="Dart Command Line App.function_default_param.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="break_and_continue.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter4/break_and_continue.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
-    </configuration>
     <configuration name="function_declaration.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter5/function_declaration.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter5" />
+    </configuration>
+    <configuration name="function_default_param.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter5/function_default_param.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter5" />
     </configuration>
     <configuration name="function_optional_param.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -229,19 +231,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.break_and_continue.dart" />
       <item itemvalue="Dart Command Line App.stmt_switch.dart" />
       <item itemvalue="Dart Command Line App.stmt_assert.dart" />
       <item itemvalue="Dart Command Line App.function_declaration.dart" />
       <item itemvalue="Dart Command Line App.function_optional_param.dart" />
+      <item itemvalue="Dart Command Line App.function_default_param.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.function_default_param.dart" />
         <item itemvalue="Dart Command Line App.function_optional_param.dart" />
         <item itemvalue="Dart Command Line App.function_declaration.dart" />
         <item itemvalue="Dart Command Line App.stmt_assert.dart" />
         <item itemvalue="Dart Command Line App.stmt_switch.dart" />
-        <item itemvalue="Dart Command Line App.break_and_continue.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +269,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18329000" />
+    <option name="totallyTimeSpent" value="18763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -281,7 +283,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6308725" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5503356" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.5073826" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.2693997" />
@@ -324,13 +326,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/dart/2.0.0-dev.67.0/libexec/lib/core/map.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="346" column="18" selection-start-line="346" selection-start-column="18" selection-end-line="346" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/var_and_const.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -676,8 +671,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter5/function_optional_param.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="326">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/function_default_param.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
