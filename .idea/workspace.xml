@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54fe2547-891f-4886-9a80-954989fea59d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/part-two/chapter1/class_and_object.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-two/chapter1/person.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart-Basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dart-Basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/hello_world.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter1/hello_world.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/data_type_boolean.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter2/data_type_boolean.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/data_type_dynamic.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter2/data_type_dynamic.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/data_type_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter2/data_type_list.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/data_type_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter2/data_type_map.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/data_type_number.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter2/data_type_number.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/data_type_string.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter2/data_type_string.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/var_and_const.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter2/var_and_const.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/operator_arithmetic.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter3/operator_arithmetic.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/operator_asignment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter3/operator_asignment.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/operator_conditional.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter3/operator_conditional.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/operator_logical.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter3/operator_logical.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/operator_relational.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter3/operator_relational.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/break_and_continue.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter4/break_and_continue.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/stmt_assert.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter4/stmt_assert.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/stmt_for.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter4/stmt_for.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/stmt_if.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter4/stmt_if.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/stmt_switch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter4/stmt_switch.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/stmt_while.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter4/stmt_while.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/function_anonymous.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter5/function_anonymous.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/function_closure.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter5/function_closure.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/function_declaration.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter5/function_declaration.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/function_default_param.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter5/function_default_param.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/function_object.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter5/function_object.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/function_optional_param.dart" beforeDir="false" afterPath="$PROJECT_DIR$/part-one/chapter5/function_optional_param.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +17,28 @@
   <component name="FileEditorManager">
     <leaf />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/part-two/chapter1</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/part-two/chapter1/class_and_object.dart" />
+        <option value="$PROJECT_DIR$/part-two/chapter1/person.dart" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -102,6 +98,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/part-one" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -117,6 +118,10 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="class_and_object.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/part-two/chapter1/class_and_object.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/part-two/chapter1" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -160,6 +165,11 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.class_and_object.dart" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -171,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540563165730</updated>
-      <workItem from="1540563167012" duration="509000" />
+      <workItem from="1540563167012" duration="5144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="509000" />
+    <option name="totallyTimeSpent" value="5144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -189,17 +199,17 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Dart Analysis" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32918397" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.269514" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,11 +223,30 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/part-one/chapter1/hello_world.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-two/chapter1/class_and_object.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-two/chapter1/person.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
