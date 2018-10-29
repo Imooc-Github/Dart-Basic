@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54fe2547-891f-4886-9a80-954989fea59d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/part-two/chapter1/init_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-two/chapter1/static_member.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="init_list.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/part-two/chapter1/init_list.dart">
+      <file leaf-file-name="static_member.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/part-two/chapter1/static_member.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="472">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -51,6 +51,7 @@
         <option value="$PROJECT_DIR$/part-two/chapter1/constructors.dart" />
         <option value="$PROJECT_DIR$/part-two/chapter1/factory_constructors.dart" />
         <option value="$PROJECT_DIR$/part-two/chapter1/init_list.dart" />
+        <option value="$PROJECT_DIR$/part-two/chapter1/static_member.dart" />
       </list>
     </option>
   </component>
@@ -143,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.init_list.dart">
+  <component name="RunManager" selected="Dart Command Line App.static_member.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -161,6 +162,10 @@
     </configuration>
     <configuration name="init_list.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/part-two/chapter1/init_list.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/part-two/chapter1" />
+    </configuration>
+    <configuration name="static_member.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/part-two/chapter1/static_member.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/part-two/chapter1" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -210,9 +215,11 @@
       <item itemvalue="Dart Command Line App.calculated_property.dart" />
       <item itemvalue="Dart Command Line App.constructors.dart" />
       <item itemvalue="Dart Command Line App.init_list.dart" />
+      <item itemvalue="Dart Command Line App.static_member.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.static_member.dart" />
         <item itemvalue="Dart Command Line App.init_list.dart" />
         <item itemvalue="Dart Command Line App.constructors.dart" />
         <item itemvalue="Dart Command Line App.calculated_property.dart" />
@@ -231,12 +238,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540563165730</updated>
       <workItem from="1540563167012" duration="5144000" />
-      <workItem from="1540816234730" duration="4205000" />
+      <workItem from="1540816234730" duration="5168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9498000" />
+    <option name="totallyTimeSpent" value="10461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -375,8 +382,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/part-two/chapter1/init_list.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="370">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-two/chapter1/static_member.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
