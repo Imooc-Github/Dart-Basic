@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54fe2547-891f-4886-9a80-954989fea59d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/part-two/chapter2/override_operator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-two/chapter3/enum.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="override_operator.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/part-two/chapter2/override_operator.dart">
+      <file leaf-file-name="enum.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/part-two/chapter3/enum.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="440">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -65,6 +65,7 @@
         <option value="$PROJECT_DIR$/part-two/chapter2/interface.dart" />
         <option value="$PROJECT_DIR$/part-two/chapter2/mixins.dart" />
         <option value="$PROJECT_DIR$/part-two/chapter2/override_operator.dart" />
+        <option value="$PROJECT_DIR$/part-two/chapter3/enum.dart" />
       </list>
     </option>
   </component>
@@ -102,7 +103,7 @@
               <item name="Dart-Basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dart-Basic" type="462c0819:PsiDirectoryNode" />
               <item name="part-two" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.override_operator.dart">
+  <component name="RunManager" selected="Dart Command Line App.enum.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -165,9 +166,9 @@
       <option name="filePath" value="$PROJECT_DIR$/part-two/chapter2/class_abstract.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/part-two/chapter2" />
     </configuration>
-    <configuration name="constructor_extends.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/part-two/chapter2/constructor_extends.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/part-two/chapter2" />
+    <configuration name="enum.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/part-two/chapter3/enum.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/part-two/chapter3" />
     </configuration>
     <configuration name="interface.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/part-two/chapter2/interface.dart" />
@@ -224,19 +225,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.constructor_extends.dart" />
       <item itemvalue="Dart Command Line App.class_abstract.dart" />
       <item itemvalue="Dart Command Line App.interface.dart" />
       <item itemvalue="Dart Command Line App.mixins.dart" />
       <item itemvalue="Dart Command Line App.override_operator.dart" />
+      <item itemvalue="Dart Command Line App.enum.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.enum.dart" />
         <item itemvalue="Dart Command Line App.override_operator.dart" />
         <item itemvalue="Dart Command Line App.mixins.dart" />
         <item itemvalue="Dart Command Line App.interface.dart" />
         <item itemvalue="Dart Command Line App.class_abstract.dart" />
-        <item itemvalue="Dart Command Line App.constructor_extends.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -255,12 +256,12 @@
       <workItem from="1540867526673" duration="6248000" />
       <workItem from="1540910229921" duration="3559000" />
       <workItem from="1540915040462" duration="3375000" />
-      <workItem from="1540992148503" duration="2998000" />
+      <workItem from="1540992148503" duration="4026000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28922000" />
+    <option name="totallyTimeSpent" value="29950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -532,8 +533,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/part-two/chapter2/override_operator.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-two/chapter3/enum.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
